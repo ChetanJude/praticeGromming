@@ -2,8 +2,8 @@
 public class HandBall {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+		
+		System.out.println("play");
+		System.out.println("dont play");
+}
 }
